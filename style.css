@@ -1,0 +1,34 @@
+/*
+Theme Name: Gold Creek Farms
+Theme URI: http://inspyregroup.com
+Description: A custom theme made for Gold Creek Farms
+Author: Nicholas Koskowski, Inspyre Group
+Version: 1.0
+Tags: awesome
+*/
+
+/* Typography */
+
+body {font-family: 'Alegreya', serif; color:#898989;}
+
+h1,h2,h3,h4,h5,h6 {margin:0px; font-family: 'Alegreya', serif;}
+p,label,blockquote,input,select,textarea,li,i,table {font-size:12px; font-family: 'Roboto', sans-serif;}
+
+h1 {font-size: 38px;}
+h2 {font-size: 32px;}
+h3 {font-size: 27px; letter-spacing: 1px;}
+h4 {font-size: 18px; color: #2b170e;}
+h5 {font-size: 14px; font-weight: 100;}
+h6 {}
+
+a {color: inherit; text-decoration: none;}
+
+time {font-family: 'Alegreya', serif; text-align: center;}
+
+i.fa {color: #f2b31a; margin-right: 15px; font-weight: normal !important;}
+
+/* Form Elements */
+
+button,.btn,input[type=submit] {font-size: 12px; padding:12px; font-family: 'Roboto', sans-serif; border-radius: 4px; border:none;}
+input[type=text], input[type=password], input[type=number], input[type=email],textarea {padding:10px; font-size: 12px; font-family: 'Roboto', sans-serif; resize:none;}
+textarea {display: block; width: 100%;}
